@@ -172,12 +172,4 @@ Coefficients are computed using boundary conditions at \( t = 0 \) and \( t = T 
 
 ---
 
-## 🚀 How to Run
 
-### 1. Clone and Build
-
-```bash
-git clone https://github.com/yourusername/joint_impedance_control_onheal.git
-cd joint_impedance_control_onheal
-catkin build
-source devel/setup.bash
